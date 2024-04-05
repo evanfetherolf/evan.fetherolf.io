@@ -2,6 +2,7 @@
 title: Speeding Up my Premiere Pro Workflow with Keyboard Shortcuts
 header:
   overlay_image: /assets/image/post-images/peter-stumpf-yk9VXp4W5-Q-unsplash.jpg
+  overlay_filter: 0.5
   caption: Photo by <a href="https://unsplash.com/@peter_s?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Peter Stumpf</a> on <a href="https://unsplash.com/photos/flat-screen-monitor-yk9VXp4W5-Q?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 tagline: How I Learned to Stop Worrying and Love Home Row
 ---
