@@ -37,7 +37,7 @@ plugins:
   - jekyll-remote-theme
 author:
   name     : "Evan Fetherolf"
-  bio      : "CompTIA A+, Gardener, Woodworker"
+  bio      : "CompTIA A+, Video Editor, Gardener, Woodworker"
   avatar   : "/assets/image/headshot.jpg"
   location : "Los Angeles, CA"
   links    :
