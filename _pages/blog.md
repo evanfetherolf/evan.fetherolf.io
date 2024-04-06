@@ -1,5 +1,5 @@
 ---
 author_profile: true
-layout: posts
+layout: home
 permalink: /blog
 ---
