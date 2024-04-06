@@ -5,7 +5,7 @@ header:
   overlay_filter: 0.5
   caption: Photo by <a href="https://unsplash.com/@peter_s?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Peter Stumpf</a> on <a href="https://unsplash.com/photos/flat-screen-monitor-yk9VXp4W5-Q?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 tagline: How I Learned to Stop Worrying and Love Home Row
-category: Video Editing
+categories: video-editing
 ---
 
 As many video editors know, speed is often one of the most important parts of the job; clients pay big bucks to our company to produce videos, and for me to edit them, so it's important that I be as efficient as possible.
