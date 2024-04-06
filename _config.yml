@@ -77,8 +77,7 @@ defaults:
       comments: false
       share: true
       related: false
-
-permalink: /:categories/:title/
+      permalink: /:categories/:title/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
