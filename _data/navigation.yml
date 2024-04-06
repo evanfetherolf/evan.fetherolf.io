@@ -1,5 +1,5 @@
 main:
   - title: Blog
-    url: blog/
+    url: /blog/
   - title: Video Editing
-    url: video-editing/
+    url: /video-editing/
