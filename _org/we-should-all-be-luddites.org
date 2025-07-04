@@ -3,6 +3,25 @@
 
 ** Everyone thinks the luddites were afraid of new technology, so burned down the looms.
 A whole bunch of irrational actors afraid of the unknown.
+
+*** Common knowledge (wikipedia):
+#+BEGIN_QUOTE
+The Luddites were members of a 19th-century movement of English textile workers who opposed the use of certain types of automated machinery due to concerns relating to worker pay and output quality. They often destroyed the machines in organised raids.[1][2] Members of the group referred to themselves as Luddites, self-described followers of "Ned Ludd", a legendary weaver whose name was used as a pseudonym in threatening letters to mill owners and government officials.
+#+END_QUOTE
+Luddites were subject to execution and penal transportation
+
+#+BEGIN_QUOTE
+The name Luddite (/ˈlʌdaɪt/) occurs in the movement's writings as early as 1811.[3] The movement utilised the eponym of Ned Ludd, an apocryphal apprentice who allegedly smashed two stocking frames in 1779 after being criticised and instructed to change his method. The name often appears as Captain, General, or King Ludd. Different versions of the legends place his residence in Anstey, near Leicester, or Sherwood Forest like Robin Hood.
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+In Lancashire, new cotton spinning technologies were met with violent resistance in 1768 and 1779. These new inventions produced textiles faster and cheaper because they could be operated by less-skilled, low-wage labourers.[11] These struggles sometimes resulted in government suppression, via Parliamentary acts such as the Protection of Stocking Frames, etc. Act 1788.
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+Malcolm L. Thomas argued in his 1970 history The Luddites that machine-breaking was one of the very few tactics that workers could use to increase pressure on employers, undermine lower-paid competing workers, and create solidarity among workers. "These attacks on machines did not imply any necessary hostility to machinery as such; machinery was just a conveniently exposed target against which an attack could be made."[10] Historian Eric Hobsbawm has called their machine wrecking "collective bargaining by riot", which had been a tactic used in Britain since the Restoration because manufactories were scattered throughout the country, and that made it impractical to hold large-scale strikes.
+#+END_QUOTE
+
 ** The luddites were 'afraid' of automation, not of technology.
 *** They're fear wasn't of the unknown, which is how a lot of people like to make it out, but the fear of automation's effect on production quality and jobs.
 ** Maybe the luddites were right, and maybe it applies to current times too.
@@ -60,16 +79,9 @@ https://www.npr.org/2021/08/13/1027317245/how-much-phone-time-is-too-much-phone-
 
   https://www.pewresearch.org/internet/fact-sheet/mobile/
   addiction help's numbers are similar to pew's numbers
-
-** What other black boxes were there before broadband and smartphones? Before personal computers?
-The black box argument maybe isn't great. I guess there are and always have been a lot of things people use without knowing how they work. The bigger issue is the attention/data harvesting
-
-Black Box was coined around 1945 per wikipedia, so I guess it really has mostly been used in terms of computing.
-Wilhelm Cauer didn't use the term, but is credited with the idea.
-Ross Ashby and Norbert Wiener fleshed out the idea.
-
-I'm maybe getting too in the weeds about this. The point is you use your phone despite having no idea how any of it works, and unlike older 'black boxes' like a washing machine, it's notoriously difficult to figure out how it works, hardware wise at least.
-
+*** People are too eager to sign up for any and everything, without asking any questions at all. Would you be that careless with your phone number? home address? social security number?
+*** We need to stop trusting our data and our attention to companies operating in bad faith
+*** As many people as possible need to understand that the app isn't the product, the user is.
 ** We need to prioritize tech and media literacy.
 ** We also need to prioritize tech mindfulness
 Mental health
@@ -78,16 +90,20 @@ Stop Doom Scolling
 ** Tell 'em whatcha told 'em
 
 ** Random Thoughts
-*** People are too eager to sign up for any and everything, without asking any questions at all. Would you be that careless with your phone number? home address? social security number?
 
+*** What other black boxes were there before broadband and smartphones? Before personal computers?
+The black box argument maybe isn't great. I guess there are and always have been a lot of things people use without knowing how they work. The bigger issue is the attention/data harvesting
 
-*** As many people as possible need to understand that the app isn't the product, the user is.
+Black Box was coined around 1945 per wikipedia, so I guess it really has mostly been used in terms of computing.
+Wilhelm Cauer didn't use the term, but is credited with the idea.
+Ross Ashby and Norbert Wiener fleshed out the idea.
 
-*** We need to stop trusting our data and our attention to companies operating in bad faith
-**** Social media companies are (verifiably?) deliberately dividing us, scaring us so we'll give them more attention.
-**** Google lets you store your documents, photos, and emails on their servers for free, because they're sucking as much data and personal information as they can out of all that stuff. And they're selling all that information to anyone who has enough money, including governments.
-**** Google carelessly deletes users' data to cover their own asses.
-***** Guy who sent photos of his kid to the pediatrician, and google banned him for child porn. He appealed multiple times and never regained access. he lost lots of important documents because he was only storing them in google.
+I'm maybe getting too in the weeds about this. The point is you use your phone despite having no idea how any of it works, and unlike older 'black boxes' like a washing machine, it's notoriously difficult to figure out how it works, hardware wise at least.
+
+*** Social media companies are (verifiably?) deliberately dividing us, scaring us so we'll give them more attention.
+*** Google lets you store your documents, photos, and emails on their servers for free, because they're sucking as much data and personal information as they can out of all that stuff. And they're selling all that information to anyone who has enough money, including governments.
+*** Google carelessly deletes users' data to cover their own asses.
+**** Guy who sent photos of his kid to the pediatrician, and google banned him for child porn. He appealed multiple times and never regained access. he lost lots of important documents because he was only storing them in google.
 
 *** Phones/social media/mobile games are designed to be as addictive as possible. If anyone were addicted to alcohol, tobacco, or drugs the way they were addicted to their phone, their friends and family would have massive concerns.
 **** Social media companies using the same tactics as big tobacco in the 90s
