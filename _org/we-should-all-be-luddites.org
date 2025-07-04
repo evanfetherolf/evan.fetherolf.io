@@ -1,7 +1,41 @@
 * Title: We should all be luddites
 ** Thesis: Luddites weren't AFRAID of new technology, they were MINDFUL of it, and recognized its potential harm to society.
 
-** The device we (anecdotally) interact with the most is our phones, but they are black boxes. No one has any idea what happens behind the screen.
+** Everyone thinks the luddites were afraid of new technology, so burned down the looms.
+A whole bunch of irrational actors afraid of the unknown.
+** The luddites were 'afraid' of automation, not of technology.
+*** They're fear wasn't of the unknown, which is how a lot of people like to make it out, but the fear of automation's effect on production quality and jobs.
+** Maybe the luddites were right, and maybe it applies to current times too.
+*** AI is already making music and movies and stuff
+**** An AI generated band on spotify is rising the charts.
+https://www.bbc.com/news/articles/cp8mjnn7eqno
+(I'm not sure this isn't just some kind of art project but we'll see.)
+**** AI Fake news
+***** John Oliver story about AI Slop
+https://youtu.be/TWpg1RmzAbc?si=57JAI9OqNKkuRyLU
+
+***** VT article about AI fake news
+https://news.vt.edu/articles/2024/02/AI-generated-fake-news-experts.html
+
+***** MIT article
+https://www.technologyreview.com/2023/10/04/1080801/generative-ai-boosting-disinformation-and-propaganda-freedom-house/
+Governments and politicians are using it for propaganda
+
+***** DISA article
+https://disa.org/the-impact-of-fake-news-statistics-by-country-artificial-intelligence-influence-and-misinformation-trends/
+****** DISA is interesting because the website is super vague. It seems to (parade as?) some type of industry group for social media companies to work together to combat misinformation or something, but the website is only a bunch of blog posts. No 'about' section, no contact information, copyright info is only 'DISA'
+**** Problem with AI generated content is that LLMs aren't capable of creativity
+A lot of people would probably argue with that, I should read up more on that
+***** When you look at an AI generated image closely, you can just /tell/ that it is fake.
+****** Uncanny valley
+***** AI also used to create fake news for propaganda.
+****** If more people just paid more attention instead of scrolling and clicking, it probably wouldn't be as bad.
+****** 
+*** Companies haven't cared about quality for a long time. Products are designed to keep our attention, not make us more productive.
+*** In the last couple of years, companies have OPENLY ADMITTED to trying to automate away jobs.
+
+** We should be more mindful with how we use our devices
+*** The device we (anecdotally) interact with the most is our phones, but they are black boxes. No one has any idea what happens behind the screen.
 https://explodingtopics.com/blog/smartphone-usage-stats ?
 https://www.npr.org/2021/08/13/1027317245/how-much-phone-time-is-too-much-phone-time-scientists-research-digital-addiction
 
@@ -30,21 +64,32 @@ https://www.npr.org/2021/08/13/1027317245/how-much-phone-time-is-too-much-phone-
 ** What other black boxes were there before broadband and smartphones? Before personal computers?
 The black box argument maybe isn't great. I guess there are and always have been a lot of things people use without knowing how they work. The bigger issue is the attention/data harvesting
 
-** People are too eager to sign up for any and everything, without asking any questions at all. Would you be that careless with your phone number? home address? social security number?
+Black Box was coined around 1945 per wikipedia, so I guess it really has mostly been used in terms of computing.
+Wilhelm Cauer didn't use the term, but is credited with the idea.
+Ross Ashby and Norbert Wiener fleshed out the idea.
 
-** The luddites were 'afraid' of automation, not of technology. They're fear wasn't of the unknown, which is how a lot of people like to make it out, but the fear of automation's effect on production quality and jobs.
-*** Companies haven't cared about quality for a long time. Products are designed to keep our attention, not make us more productive.
-*** In the last couple of years, companies have OPENLY ADMITTED to trying to automate away jobs.
+I'm maybe getting too in the weeds about this. The point is you use your phone despite having no idea how any of it works, and unlike older 'black boxes' like a washing machine, it's notoriously difficult to figure out how it works, hardware wise at least.
 
-** As many people as possible need to understand that the app isn't the product, the user is.
+** We need to prioritize tech and media literacy.
+** We also need to prioritize tech mindfulness
+Mental health
+Stop Doom Scolling
 
-** We need to stop trusting our data and our attention to companies operating in bad faith
-*** Social media companies are (verifiably?) deliberately dividing us, scaring us so we'll give them more attention.
-*** Google lets you store your documents, photos, and emails on their servers for free, because they're sucking as much data and personal information as they can out of all that stuff. And they're selling all that information to anyone who has enough money, including governments.
-*** Google carelessly deletes users' data to cover their own asses.
-**** Guy who sent photos of his kid to the pediatrician, and google banned him for child porn. He appealed multiple times and never regained access. he lost lots of important documents because he was only storing them in google.
+** Tell 'em whatcha told 'em
 
-** Phones/social media/mobile games are designed to be as addictive as possible. If anyone were addicted to alcohol, tobacco, or drugs the way they were addicted to their phone, their friends and family would have massive concerns.
-*** Social media companies using the same tactics as big tobacco in the 90s
+** Random Thoughts
+*** People are too eager to sign up for any and everything, without asking any questions at all. Would you be that careless with your phone number? home address? social security number?
 
-** Social media widely known to be used for surveilance.
+
+*** As many people as possible need to understand that the app isn't the product, the user is.
+
+*** We need to stop trusting our data and our attention to companies operating in bad faith
+**** Social media companies are (verifiably?) deliberately dividing us, scaring us so we'll give them more attention.
+**** Google lets you store your documents, photos, and emails on their servers for free, because they're sucking as much data and personal information as they can out of all that stuff. And they're selling all that information to anyone who has enough money, including governments.
+**** Google carelessly deletes users' data to cover their own asses.
+***** Guy who sent photos of his kid to the pediatrician, and google banned him for child porn. He appealed multiple times and never regained access. he lost lots of important documents because he was only storing them in google.
+
+*** Phones/social media/mobile games are designed to be as addictive as possible. If anyone were addicted to alcohol, tobacco, or drugs the way they were addicted to their phone, their friends and family would have massive concerns.
+**** Social media companies using the same tactics as big tobacco in the 90s
+
+*** Social media widely known to be used for surveilance.
